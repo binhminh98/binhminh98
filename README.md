@@ -22,6 +22,8 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-5A67D8?style=flat&logo=graphQL&logoColor=white)
 ![Plotly-Dash](https://img.shields.io/badge/Plotly-Dash-blue?logo=plotly&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white)
 
 ---
 
