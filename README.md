@@ -1,45 +1,11 @@
 <h1 align="center">👋 Hi there, I'm Minh Lai</h1>
 
 <p align="center">
-  🚀 Data Scientist | 🧠 AI Explorer | 🔄 Full-stack ML Developer  
+  🚀 Data Scientist | 🧠 AI Engineer | 🔄 Full-stack ML Engineer  
   <br>
   <a href="https://linkedin.com/in/minh-lai-87427022b">LinkedIn</a> •
   <a href="https://github.com/binhminh98">GitHub</a>
 </p>
-
----
-
-## 💡 Interests
-
-- 🧠 Building **AI Agents** with LangChain & LangGraph
-- 🔄 Designing **end-to-end pipelines** (ETL → ML → Deployment)
-- 🌍 Applying data science to **real-world problems**
-
----
-
-## 🔨 Current Projects
-
-### 🧠 AI Agents with LangChain & LangGraph
-> Exploring autonomous decision-making and workflow execution  
-> Building an architecture for real-time, intelligent automation using:
-- LangChain
-- LangGraph
-
-### 🛡️ Real-Time Fraud Detection System ([link](https://github.com/binhminh98/realtime-fraud-detection))
-> Fraud detection with Kafka-based ingestion, FastAPI inference API, XGBoost model deployment, and MLFlow for model monitoring.
-
-**🔧 Tools**: Docker · Kafka · FastAPI · PostgreSQL · Raspberry Pi · MLflow  
-**⚙️ Results**:  
-- 83% F1-score (fraud class)  
-- 14.46 ms avg latency  
-- 65 inferences/sec
-
-### 🩺 Diabetes Classification ([link](https://github.com/binhminh98/Data-Mining))
-> Predicting diabetes diagnosis from patient data using traditional ML pipeline
-
-**⚙️ Pipeline**: EDA → Feature Selection → Classification  
-**📈 Accuracy**: 85% F1-score & accuracy  
-**🔍 Stack**: Scikit-learn · Pandas · Matplotlib · Seaborn
 
 ---
 
@@ -59,12 +25,38 @@
 
 ---
 
-## 📊 GitHub Stats
+## 💡 Interests
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binhminh98&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binhminh98&theme=radical" width="48%" />
-</p>
+- 🧠 Building **AI Agents** with LangChain & LangGraph
+- 🔄 Designing **end-to-end pipelines** (Data gathering -> ETL → ML → Deployment -> Monitoring)
+- 🌍 Applying data science to **real-world problems**
+
+---
+
+## 🔨 Current Projects
+
+### 🧠 AI Agents with LangChain & LangGraph
+> Exploring autonomous decision-making and workflow execution  
+> Building an architecture for real-time, intelligent automation using:
+- LangChain
+- LangGraph
+
+### 🛡️ Real-Time Fraud Detection System ([link](https://github.com/binhminh98/realtime-fraud-detection))
+> Fraud detection with Kafka-based ingestion, FastAPI inference API, XGBoost model deployment, and MLFlow for model monitoring.
+
+**🔍 Stack**: Docker · Kafka · FastAPI · PostgreSQL · Raspberry Pi · MLflow · AWS S3 Bucket (MinIO)  
+**⚙️ Results**:  
+- 83% F1-score (positive fraud class)  
+- 14.46 ms avg latency  
+- 65 inferences/sec
+
+### 🩺 Diabetes Classification ([link](https://github.com/binhminh98/Data-Mining))
+> Predicting diabetes diagnosis from patient data using traditional ML pipeline
+
+**🔍 Stack**: Jupyter Notebook · Scikit-learn · Pandas · Matplotlib · Seaborn
+**⚙️ Results**:
+- End-to-end data science pipeline to predict diabetes presence
+- 85% F1-score & accuracy  
 
 ---
 
@@ -72,6 +64,15 @@
 
 🎓 **MSc Data Science** – University of East Anglia (Distinction)  
 🎓 **BSc International Economics** – Foreign Trade University (1st Class Equivalent)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=binhminh98&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binhminh98&theme=radical" width="48%" />
+</p>
 
 ---
 
