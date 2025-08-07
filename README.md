@@ -66,10 +66,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=binhminh98&theme=radical" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binhminh98&layout=compact&theme=radical" width="48%" />
-</p>
-
 ---
 
 ## 📚 Education
