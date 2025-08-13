@@ -37,11 +37,9 @@
 
 ## 🔨 Current Projects
 
-### 🧠 AI Agents with LangChain & LangGraph
-> Exploring autonomous decision-making and workflow execution  
-> Building an architecture for real-time, intelligent automation using:
+### 🧠 AI-Automated Interview Prep Web Application ([link](https://github.com/binhminh98/job-research-assistant))
+> AI powered Web application for interview prep
 - LangChain
-- LangGraph
 
 ### 🛡️ Real-Time Fraud Detection System ([link](https://github.com/binhminh98/realtime-fraud-detection))
 > Fraud detection with Kafka-based ingestion, FastAPI inference API, XGBoost model deployment, and MLFlow for model monitoring.
