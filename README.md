@@ -40,8 +40,8 @@
 ### 🧠 AI-Automated Interview Prep Web Application ([link](https://github.com/binhminh98/job-research-assistant))
 > A comprehensive AI-powered job application toolkit that helps job seekers optimize their CVs, prepare for interviews, and increase their chances of landing their dream job.
 
-**🔍 Stack**: Langchain · FastAPI · PostgreSQL · Raspberry Pi · Plotly Dash · AWS S3 Bucket (MinIO) . LLM . RAG
-**⚙️ Results**:  
+**🔍 Stack**: Langchain · FastAPI · PostgreSQL · Raspberry Pi · Plotly Dash · AWS S3 Bucket (MinIO) · LLM · RAG
+**⚙️ Results**:
 - Full stack web application.
 - Backend: FastAPI with Langchain integrated LLM and RAG capabilities.
 - Frontend: Plotly-Dash web app.
