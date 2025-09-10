@@ -39,12 +39,12 @@
 
 ### 🧠 AI-Automated Interview Prep Web Application ([link](https://github.com/binhminh98/job-research-assistant))
 > AI powered Web application for interview prep
-- LangChain
+**🔍 Stack**: Langchain · FastAPI · PostgreSQL · Raspberry Pi · Plotly Dash · AWS S3 Bucket (MinIO)  
 
 ### 🛡️ Real-Time Fraud Detection System ([link](https://github.com/binhminh98/realtime-fraud-detection))
 > Fraud detection with Kafka-based ingestion, FastAPI inference API, XGBoost model deployment, and MLFlow for model monitoring.
 
-**🔍 Stack**: Docker · Kafka · FastAPI · PostgreSQL · Raspberry Pi · MLflow · AWS S3 Bucket (MinIO)  
+**🔍 Stack**: Docker · Kafka · FastAPI · PostgreSQL · Raspberry Pi · Plotly Dash · MLflow · AWS S3 Bucket (MinIO)  
 **⚙️ Results**:  
 - 83% F1-score (positive fraud class)  
 - 14.46 ms avg latency  
