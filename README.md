@@ -41,6 +41,7 @@
 > A comprehensive AI-powered job application toolkit that helps job seekers optimize their CVs, prepare for interviews, and increase their chances of landing their dream job.
 
 **🔍 Stack**: Langchain · LLM · RAG · FastAPI · PostgreSQL · Raspberry Pi · Plotly Dash · AWS S3 Bucket (MinIO)
+
 **⚙️ Results**:
 - Full stack web application.
 - Backend: FastAPI with Langchain integrated LLM and RAG capabilities.
@@ -49,7 +50,8 @@
 ### 🛡️ Real-Time Fraud Detection System ([link](https://github.com/binhminh98/realtime-fraud-detection))
 > Fraud detection with Kafka-based ingestion, FastAPI inference API, XGBoost model deployment, and MLFlow for model monitoring.
 
-**🔍 Stack**: Docker · Kafka · FastAPI · PostgreSQL · Raspberry Pi · Plotly Dash · MLflow · AWS S3 Bucket (MinIO)  
+**🔍 Stack**: Docker · Kafka · FastAPI · PostgreSQL · Raspberry Pi · Plotly Dash · MLflow · AWS S3 Bucket (MinIO)
+
 **⚙️ Results**:  
 - 83% F1-score (positive fraud class)  
 - 14.46 ms avg latency  
@@ -59,6 +61,7 @@
 > Predicting diabetes diagnosis from patient data using traditional ML pipeline
 
 **🔍 Stack**: Jupyter Notebook · Scikit-learn · Pandas · Matplotlib · Seaborn
+
 **⚙️ Results**:
 - End-to-end data science pipeline to predict diabetes presence
 - 85% F1-score & accuracy  
