@@ -38,7 +38,8 @@
 ## 🔨 Current Projects
 
 ### 🧠 AI-Automated Interview Prep Web Application ([link](https://github.com/binhminh98/job-research-assistant))
-> AI powered Web application for interview prep
+> AI powered Web application for interview prep.
+
 **🔍 Stack**: Langchain · FastAPI · PostgreSQL · Raspberry Pi · Plotly Dash · AWS S3 Bucket (MinIO)  
 
 ### 🛡️ Real-Time Fraud Detection System ([link](https://github.com/binhminh98/realtime-fraud-detection))
